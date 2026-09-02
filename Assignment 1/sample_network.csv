@@ -1,0 +1,26 @@
+# Emergency Road Network - Metropolitan Sector 4
+# Format: from,to,weight,bidirectional
+from,to,weight,bidirectional
+Hospital_Central,Inter_1,2.0,1
+Hospital_Central,Inter_5,4.5,1
+Inter_1,Inter_2,3.0,1
+Inter_1,Inter_3,6.0,1
+Inter_2,Inter_3,1.5,1
+Inter_2,Inter_4,5.0,1
+Inter_3,Inter_4,2.0,1
+Inter_3,Incident_Scene_Alpha,6.5,1
+Inter_4,Incident_Scene_Alpha,1.5,1
+Fire_Station_East,Inter_4,3.2,1
+Fire_Station_East,Inter_6,2.8,1
+Inter_5,Inter_6,3.5,1
+Inter_5,Highway_North_101,1.8,1
+Inter_6,Highway_South_101,2.2,1
+Highway_North_101,Highway_South_101,4.0,1
+Highway_South_101,Downtown_Plaza,3.0,1
+Downtown_Plaza,Incident_Scene_Alpha,4.2,1
+Police_HQ,Inter_2,2.5,1
+Police_HQ,Downtown_Plaza,3.8,1
+Ambulance_Depot_North,Inter_1,1.2,1
+Ambulance_Depot_North,Highway_North_101,2.6,1
+Inter_4,Downtown_Plaza,2.4,1
+Inter_6,Incident_Scene_Alpha,5.1,1

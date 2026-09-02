@@ -1,0 +1,18 @@
+# Highway & Expressway Corridor Network
+# Format: from,to,weight,bidirectional
+from,to,weight,bidirectional
+Trauma_Center_North,North_Exit_1,1.5,1
+North_Exit_1,Expressway_North,2.0,1
+North_Exit_1,Local_Access_Road_1,4.5,1
+Expressway_North,Central_Toll_Plaza,3.0,1
+Local_Access_Road_1,Industrial_Spur,5.0,1
+Central_Toll_Plaza,Expressway_South,3.0,1
+Central_Toll_Plaza,Bypass_Loop_West,4.0,1
+Bypass_Loop_West,South_Interchange,3.5,1
+Expressway_South,South_Exit_12,2.5,1
+Industrial_Spur,South_Exit_12,6.0,1
+South_Exit_12,South_Interchange,1.8,1
+South_Interchange,Highway_Accident_Site,1.2,1
+Fire_Rescue_HQ,Local_Access_Road_1,2.2,1
+Fire_Rescue_HQ,Central_Toll_Plaza,3.8,1
+Ambulance_Bay_South,South_Interchange,1.0,1

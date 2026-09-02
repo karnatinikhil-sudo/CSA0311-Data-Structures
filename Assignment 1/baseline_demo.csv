@@ -1,0 +1,11 @@
+# Baseline Worked Example Network (Part 1)
+# Format: from,to,weight,bidirectional
+from,to,weight,bidirectional
+Hospital,I1,2.0,1
+I1,I2,3.0,1
+I1,I3,6.0,1
+I2,I3,1.0,1
+I2,I4,5.0,1
+I3,I4,2.0,1
+I4,Scene,1.5,1
+I3,Scene,6.0,1

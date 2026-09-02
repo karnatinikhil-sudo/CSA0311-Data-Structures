@@ -1,0 +1,32 @@
+# Downtown 16-Block Emergency Grid Network
+# Format: from,to,weight,bidirectional
+from,to,weight,bidirectional
+General_Hospital,Grid_A1,1.0,1
+Grid_A1,Grid_A2,2.0,1
+Grid_A2,Grid_A3,2.0,1
+Grid_A3,Grid_A4,2.0,1
+Grid_A1,Grid_B1,2.0,1
+Grid_A2,Grid_B2,2.0,1
+Grid_A3,Grid_B3,2.0,1
+Grid_A4,Grid_B4,2.0,1
+Grid_B1,Grid_B2,2.0,1
+Grid_B2,Grid_B3,2.0,1
+Grid_B3,Grid_B4,2.0,1
+Grid_B1,Grid_C1,2.0,1
+Grid_B2,Grid_C2,2.0,1
+Grid_B3,Grid_C3,2.0,1
+Grid_B4,Grid_C4,2.0,1
+Grid_C1,Grid_C2,2.0,1
+Grid_C2,Grid_C3,2.0,1
+Grid_C3,Grid_C4,2.0,1
+Grid_C1,Grid_D1,2.0,1
+Grid_C2,Grid_D2,2.0,1
+Grid_C3,Grid_D3,2.0,1
+Grid_C4,Grid_D4,2.0,1
+Grid_D1,Grid_D2,2.0,1
+Grid_D2,Grid_D3,2.0,1
+Grid_D3,Grid_D4,2.0,1
+Fire_Station_Central,Grid_B2,1.2,1
+Police_District_4,Grid_C3,1.2,1
+Grid_D4,Structure_Fire_Scene,1.5,1
+Grid_D1,Structure_Fire_Scene,6.0,1
