@@ -402,3 +402,14 @@ mingw32-make clean && mingw32-make
 * `GET /network` — Full network nodes and edges topology JSON
 * `GET /benchmark` — 5,000-node scale benchmark metrics JSON
 * `GET /health` — Service status telemetry JSON
+
+---
+
+## 11. 👥 Contributors & Institutional Repositories
+
+| Contributor / Organization | Repository | Role / Focus |
+|---|---|---|
+| **Karnati Nikhil** | [karnatinikhil-sudo/CSA0311-Data-Structures](https://github.com/karnatinikhil-sudo/CSA0311-Data-Structures) | Lead Architect & Developer — Assignment 1 Emergency Routing System |
+| **SIMATS Tech** | [192521353simats-tech/CSA0311-DATA-STRUCTURES](https://github.com/192521353simats-tech/CSA0311-DATA-STRUCTURES) | Academic Evaluation & Data Structures Laboratory |
+| **SIMATS Collab** | [192525173simats-collab/CSA0311-DATA-STRUCTURE](https://github.com/192525173simats-collab/CSA0311-DATA-STRUCTURE) | Collaborative Coursework Repository & Peer Review |
+

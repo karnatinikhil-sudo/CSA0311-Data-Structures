@@ -76,3 +76,13 @@ mingw32-make clean && mingw32-make
 ```
 
 Then open **`http://localhost:8080/`** in any web browser.
+
+---
+
+## 👥 Contributors & Institutional Repositories
+
+| Contributor / Organization | Repository | Description |
+|---|---|---|
+| **Karnati Nikhil** | [karnatinikhil-sudo/CSA0311-Data-Structures](https://github.com/karnatinikhil-sudo/CSA0311-Data-Structures) | Main Coursework & Production Systems Repository |
+| **SIMATS Tech** | [192521353simats-tech/CSA0311-DATA-STRUCTURES](https://github.com/192521353simats-tech/CSA0311-DATA-STRUCTURES) | Academic Evaluation & DSA Repository |
+| **SIMATS Collab** | [192525173simats-collab/CSA0311-DATA-STRUCTURE](https://github.com/192525173simats-collab/CSA0311-DATA-STRUCTURE) | Collaborative Coursework & Lab Solutions |
